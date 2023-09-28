@@ -1,4 +1,4 @@
-# Compose Baisc Layouts
+# Compose Basic Layouts
 
 This repository contains a basic post design layout that I created. You can use this layout as a starting point for your own projects or customize it according to your needs.
 
